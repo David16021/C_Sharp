@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\bin\Debug\net6.0\TiposIntegrados.exe
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\bin\Debug\net6.0\TiposIntegrados.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\bin\Debug\net6.0\TiposIntegrados.runtimeconfig.json
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\bin\Debug\net6.0\TiposIntegrados.dll
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\bin\Debug\net6.0\TiposIntegrados.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.dll
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\refint\TiposIntegrados.dll
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\TiposIntegrados.genruntimeconfig.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TiposIntegrados\TiposIntegrados\obj\Debug\net6.0\ref\TiposIntegrados.dll
