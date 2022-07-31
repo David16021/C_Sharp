@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\bin\Debug\net6.0\TipoString.exe
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\bin\Debug\net6.0\TipoString.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\bin\Debug\net6.0\TipoString.runtimeconfig.json
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\bin\Debug\net6.0\TipoString.dll
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\bin\Debug\net6.0\TipoString.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.dll
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\refint\TipoString.dll
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\TipoString.genruntimeconfig.cache
+C:\Users\David\source\repos\David16021\C_Sharp\TipoString\TipoString\obj\Debug\net6.0\ref\TipoString.dll
