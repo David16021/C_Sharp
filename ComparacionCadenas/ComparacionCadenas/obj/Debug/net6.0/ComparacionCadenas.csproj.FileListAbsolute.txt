@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\bin\Debug\net6.0\ComparacionCadenas.exe
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\bin\Debug\net6.0\ComparacionCadenas.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\bin\Debug\net6.0\ComparacionCadenas.runtimeconfig.json
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\bin\Debug\net6.0\ComparacionCadenas.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\bin\Debug\net6.0\ComparacionCadenas.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\refint\ComparacionCadenas.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ComparacionCadenas.genruntimeconfig.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ComparacionCadenas\ComparacionCadenas\obj\Debug\net6.0\ref\ComparacionCadenas.dll
