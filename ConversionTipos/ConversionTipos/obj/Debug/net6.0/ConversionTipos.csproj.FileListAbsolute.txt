@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\bin\Debug\net6.0\ConversionTipos.exe
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\bin\Debug\net6.0\ConversionTipos.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\bin\Debug\net6.0\ConversionTipos.runtimeconfig.json
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\bin\Debug\net6.0\ConversionTipos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\bin\Debug\net6.0\ConversionTipos.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\refint\ConversionTipos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ConversionTipos.genruntimeconfig.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ConversionTipos\ConversionTipos\obj\Debug\net6.0\ref\ConversionTipos.dll
