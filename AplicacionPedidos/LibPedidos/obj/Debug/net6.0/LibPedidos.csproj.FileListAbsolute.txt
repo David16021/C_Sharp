@@ -1,0 +1,12 @@
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\bin\Debug\net6.0\LibPedidos.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\bin\Debug\net6.0\LibPedidos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\bin\Debug\net6.0\LibPedidos.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\refint\LibPedidos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\LibPedidos.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\LibPedidos\obj\Debug\net6.0\ref\LibPedidos.dll
