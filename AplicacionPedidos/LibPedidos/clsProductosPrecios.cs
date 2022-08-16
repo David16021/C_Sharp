@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static recProductos;
 
 namespace LibPedidos
 {
@@ -21,11 +22,12 @@ namespace LibPedidos
                 $"Porcentaje Iva: {PorcentajeIva.ToString()}" + 
                 $"Porcentaje Ieps: {PorcentajeIeps.ToString()}";
         }
-        public decimal DesglosaImpuestos(out decimal MontoIva, out decimal MontoIeps)
+        public decimal DesglosaImpuestos(recMontosImpuestos Montos)
         {
             decimal resultado = 0;
-            resultado = CalculoPrecios.DesglosaImpuestos(PrecioPublico, PorcentajeIva, PorcentajeIeps,
-                                             out MontoIva, out MontoIeps);
+            recImpuestos Impuestos = new recImpuestos(PorcentajeIva, PorcentajeIeps);
+            resultado = CalculoPrecios.DesglosaImpuestos(PrecioPublico, Impuestos,
+                                             Montos);
             return resultado;
         }
     }

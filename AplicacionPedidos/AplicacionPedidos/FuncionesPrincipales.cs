@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static recProductos;
 
 namespace AplicacionPedidos
 {
@@ -52,12 +53,12 @@ namespace AplicacionPedidos
             Producto.PrecioMayoreo = 17;
             Producto.PorcentajeIva = 16;
             Producto.PorcentajeIeps = 8;
-            decimal precioSinImpuestos, MontoIva, MontoIeps;
+            decimal precioSinImpuestos, MontoIva = 0, MontoIeps = 0;
             Console.WriteLine(Producto);
-            precioSinImpuestos = Producto.DesglosaImpuestos(out MontoIva, out MontoIeps);
+            recMontosImpuestos Montos = new recMontosImpuestos(0,0);
+            precioSinImpuestos = Producto.DesglosaImpuestos(Montos);
             Console.WriteLine(precioSinImpuestos.ToString("C"));
-            Console.WriteLine(MontoIva.ToString("C"));
-            Console.WriteLine(MontoIeps.ToString("C"));
+            Console.WriteLine(Montos.ToString());
         }
     }
 }
