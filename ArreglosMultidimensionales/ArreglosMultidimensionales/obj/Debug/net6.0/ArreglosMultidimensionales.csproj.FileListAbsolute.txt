@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\net6.0\ArreglosMultidimensionales.exe
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\net6.0\ArreglosMultidimensionales.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\net6.0\ArreglosMultidimensionales.runtimeconfig.json
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\net6.0\ArreglosMultidimensionales.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\bin\Debug\net6.0\ArreglosMultidimensionales.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\refint\ArreglosMultidimensionales.dll
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ArreglosMultidimensionales.genruntimeconfig.cache
+C:\Users\David\source\repos\David16021\C_Sharp\ArreglosMultidimensionales\ArreglosMultidimensionales\obj\Debug\net6.0\ref\ArreglosMultidimensionales.dll
