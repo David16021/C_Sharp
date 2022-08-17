@@ -104,7 +104,8 @@ namespace AplicacionPedidos
         }
         public static void EjemploDiccionario()
         {
-            ctrObtenProductos cProductos = new ctrObtenProductos();
+            clsRepositorioMemProductos repoMProductos = new clsRepositorioMemProductos();
+            ctrObtenProductos cProductos = new ctrObtenProductos(repoMProductos);
             cProductos.obtenProductos();
             int opcion = 0;
             do

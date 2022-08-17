@@ -8,11 +8,11 @@ namespace LibPedidos
 {
     public class ctrObtenProductos
     {
-        private clsRepositorioMemProductos repoProductos;
+        private intRepositorioProductos repoProductos;
         public Dictionary<string, recProductos> Productos { get; set; }
-        public ctrObtenProductos()
+        public ctrObtenProductos(intRepositorioProductos pRepoProductos)
         {
-            repoProductos = new clsRepositorioMemProductos();
+            repoProductos = pRepoProductos;
             Productos = new Dictionary<string, recProductos>();
         }
 
