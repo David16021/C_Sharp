@@ -104,40 +104,49 @@ namespace AplicacionPedidos
         }
         public static void EjemploDiccionario()
         {
-            clsRepositorioMemProductos repoMProductos = new clsRepositorioMemProductos();
-            ctrObtenProductos cProductos = new ctrObtenProductos(repoMProductos);
-            cProductos.obtenProductos();
-            int opcion = 0;
-            do
+            try
             {
-                Console.WriteLine("Opciones del diccionario de productos");
-                Console.WriteLine();
-                Console.WriteLine("1. Ver la lista de productos");
-                Console.WriteLine("2. Buscar un producto por código de barras");
-                Console.WriteLine("3. Salir ");
-                opcion = Convert.ToInt32(Console.ReadLine());
-                switch (opcion)
+                //clsRepositorioMemProductos repoMProductos = new clsRepositorioMemProductos();
+                clsRepositorioArchivoProductos repoArchProductos =
+                    new clsRepositorioArchivoProductos(@"C:\Users\David\source\repos\David16021\C_Sharp\AplicacionPedidos\AplicacionPedidos\Archivos\Productos.txt");
+                ctrObtenProductos cProductos = new ctrObtenProductos(repoArchProductos);
+                cProductos.obtenProductos();
+                int opcion = 0;
+                do
                 {
-                    case 1:
-                        foreach (recProductos item in cProductos.Productos.Values)
-                        {
-                            Console.WriteLine(item.ToString());
-                        }
-                        break;
-                    case 2:
-                        Console.WriteLine("Dame un código de barras");
-                        string codigo = Console.ReadLine();
-                        recProductos producto;
-                        if (cProductos.ObtenProducto(codigo, out producto))
-                            Console.WriteLine("El valor encontrado es: " +
-                                producto.ToString());
-                        else
-                            Console.WriteLine("El producto no se encontro");
-                        break;
-                    default:
-                        break;
-                }
-            } while (opcion != 3);
-        }
+                    Console.WriteLine("Opciones del diccionario de productos");
+                    Console.WriteLine();
+                    Console.WriteLine("1. Ver la lista de productos");
+                    Console.WriteLine("2. Buscar un producto por código de barras");
+                    Console.WriteLine("3. Salir ");
+                    opcion = Convert.ToInt32(Console.ReadLine());
+                    switch (opcion)
+                    {
+                        case 1:
+                            foreach (recProductos item in cProductos.Productos.Values)
+                            {
+                                Console.WriteLine(item.ToString());
+                            }
+                            break;
+                        case 2:
+                            Console.WriteLine("Dame un código de barras");
+                            string codigo = Console.ReadLine();
+                            recProductos producto;
+                            if (cProductos.ObtenProducto(codigo, out producto))
+                                Console.WriteLine("El valor encontrado es: " +
+                                    producto.ToString());
+                            else
+                                Console.WriteLine("El producto no se encontro");
+                            break;
+                        default:
+                            break;
+                    }
+                } while (opcion != 3);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            }
     }
 }
