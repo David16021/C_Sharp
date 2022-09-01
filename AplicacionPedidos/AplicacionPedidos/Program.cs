@@ -14,7 +14,7 @@ do
     opcion = Convert.ToInt32(Console.ReadLine());
     switch (opcion)
     {
-        case 1:
+        case 1:         
             FuncionesPrincipales.EjemploCliente();
             break;
         case 2:

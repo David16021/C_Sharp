@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\bin\Debug\net6.0\Eventos.exe
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\bin\Debug\net6.0\Eventos.deps.json
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\bin\Debug\net6.0\Eventos.runtimeconfig.json
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\bin\Debug\net6.0\Eventos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\bin\Debug\net6.0\Eventos.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfo.cs
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\refint\Eventos.dll
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.pdb
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\Eventos.genruntimeconfig.cache
+C:\Users\David\source\repos\David16021\C_Sharp\Eventos\Eventos\obj\Debug\net6.0\ref\Eventos.dll
